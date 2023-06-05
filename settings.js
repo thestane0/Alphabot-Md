@@ -35,9 +35,9 @@ global.myweb2 = "https://chat.whatsapp.com/EcQ9l310H3A680NPXf3Hah" //bebas
 global.email = "mo685486@gmail.com" //bebas
 global.region = "Sri Lanka" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['201554861890'] //premium user
-global.owner = ["201554861890"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "201554861890" // nomor wa kalian
+global.premium = ['201554861890','201098395321'] //premium user
+global.owner = ["201554861890","201098395321"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "201554861890","201098395321" // nomor wa kalian
 global.ownernomerr = "+201554861890" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
@@ -115,7 +115,7 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     sukses: '🤗Done, Oke Desu~',
